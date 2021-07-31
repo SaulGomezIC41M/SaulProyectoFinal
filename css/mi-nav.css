@@ -1,19 +1,19 @@
 mi-nav {
   display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+  background-color:
+    var(--colorMiNav);
 }
 
 mi-nav ul {
-list-style-type: none;
-  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: wrap;
+  list-style: none;
   padding: 0;
-  overflow: hidden;
-  background-color: #333;
+  margin: 0;
 }
 
 mi-nav ul li {
-  float: left;
+  margin: 0.5rem;
 }
