@@ -1,21 +1,19 @@
 mi-nav {
   display: block;
-  background-color: #a3e4d7;
-  border-style: outset;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 mi-nav ul {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-flow: wrap;
-  list-style: none;
-  padding: 0;
+list-style-type: none;
   margin: 0;
-  background-color: #a3e4d7;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
 
 mi-nav ul li {
-  margin: 0.5rem;
-  background-color: #a3e4d7;
+  float: left;
 }
