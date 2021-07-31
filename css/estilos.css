@@ -6,13 +6,14 @@
   font-family: sans-serif;
   --col-active: #4646462c;
   --color-header: white;
-  --colorMiNav: white;
+  --colorMiNav: #5F9EA0;
 }
 
 body {
   max-width: 640px;
   margin: 0 auto;
   padding: 0.5rem;
+  background-color: #5F9EA0;
 }
 
 header {
