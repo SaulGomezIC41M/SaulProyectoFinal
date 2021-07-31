@@ -1,7 +1,6 @@
 mi-nav {
   display: block;
-  background-color:
-    var(--colorMiNav);
+  background-color: #5F9EA0;
 }
 
 mi-nav ul {
@@ -17,4 +16,5 @@ mi-nav ul {
 
 mi-nav ul li {
   margin: 0.5rem;
+  background-color: #5F9EA0;
 }
