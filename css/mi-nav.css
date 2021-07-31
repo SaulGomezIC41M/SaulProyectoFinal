@@ -2,6 +2,7 @@ mi-nav {
   display: block;
   background-color:
     var(--colorMiNav);
+  border: 0.5rem outset pink;
 }
 
 mi-nav ul {
