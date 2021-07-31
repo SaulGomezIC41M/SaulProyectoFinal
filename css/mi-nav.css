@@ -3,6 +3,7 @@ mi-nav {
   background-color:
     var(--colorMiNav);
   border: 0.5rem outset pink;
+  outline-offset: 0.5rem;
 }
 
 mi-nav ul {
